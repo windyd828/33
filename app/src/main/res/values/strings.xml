@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">耳机线控屏蔽</string>
+    <string name="service_description">仅过滤你学习保存的耳机音量、媒体和助手按键。不读取屏幕内容，不联网。需要在主页面开启屏蔽；可随时关闭此服务。</string>
+    <style name="AppTheme" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#176C62</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowBackground">#F3F6F5</item>
+        <item name="android:statusBarColor">#F3F6F5</item>
+        <item name="android:navigationBarColor">#F3F6F5</item>
+    </style>
+</resources>
